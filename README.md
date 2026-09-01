@@ -7,7 +7,7 @@
 <p>Neste repositório eu estou tentando aprender mais sobre Python. 🌻</p>
 
 <br>
-<p align="right">"It's good for your health"🌻</p>
+<p align="right">"It's good for your health🌻"</p>
 
 </div>
 
