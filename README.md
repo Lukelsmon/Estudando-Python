@@ -1,16 +1,37 @@
 <div align="center">
 
 <h1 align="center">
-    Olá! 🌻
+    Olá! 🍀
 </h1>
 
-<p>Neste repositório eu estou tentando aprender mais sobre Python. 🌻</p>
+<p>Neste repositório eu estou tentando aprender mais sobre Python. 🍀</p>
+
+<div align="right">
+    <p>Ué, quem colocou essas flores verdes aqui no título?
+</div>
 
 <br>
-<p align="right">"It's good for your health🌻"</p>
 
 </div>
 
 <div align="center">
-    <img align="right" src="https://media1.tenor.com/m/dH6yp0LLrnoAAAAC/flowery-flowery-deltarune.gif" width="150">
+    <img align="right" src="https://media.tenor.com/GQNZMJQ4pvIAAAAi/deltarune-chapter-5-deltarune-ch5.gif" width="70px">
 </div>
+
+<br><br><br><br><br>
+
+<div>
+    <p>
+        Ah, então foi você Verde🍀? Bem, bom ter você aqui, se importaria de nos ajudar neste repositório?
+        <img src="https://pbs.twimg.com/media/HLt8yK4bIAATSXk.jpg" width="35" height="35" valign="middle">
+    </p>
+</div>
+
+<div align="center">
+    <p>
+        Que ótimo! Bem, seremos abençoados com a presença de Verde🍀 para nos ajudar, por favor aproveitem o repositório caso queiram ler e dêem oi para Verde🍀 também!
+    </p>
+    <img src="https://i.redd.it/spoilers-for-deltarune-chapter-5-i-love-green-v0-bfoxmd9w2fah1.png?width=309&format=png&auto=webp&s=7ede1b10c27d1aec762b62a17272d1c51f086c6c" width="200px">
+</div>
+
+---
