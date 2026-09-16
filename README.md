@@ -40,3 +40,29 @@
 </div>
 
 ---
+
+<div align="center">
+    <h3>
+        Deseja acessar o modo interativo do Python?
+    </h3>
+    <p>
+        Basta colocar os seguintes comandos:
+    </p>
+</div>
+
+<br>
+
+1. Abra seu terminal no VS Code
+2. > E digite "python"
+<br>
+
+3. <div>
+    <img src="teste_modo_interativo.png" width="500px">
+
+    > Ou pode digitar executando a script: flag -i (python -i app.py)
+</div>
+
+4. <div>
+    Para sair deste modo, digite: 
+    > exit()
+</div>
