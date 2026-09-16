@@ -1,3 +1,8 @@
+
+<p align="center">
+  <a href="https://github.com/Lukelsmon"><img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-green?style=for-the-badge&logo=ghost&logoColor=green"></a>
+</p>
+
 <div align="center">
 
 <h1 align="center">
