@@ -63,6 +63,7 @@
 </div>
 
 4. <div>
-    Para sair deste modo, digite: 
+    <p>Para sair deste modo, digite:</p>
+    
     > exit()
 </div>
