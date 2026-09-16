@@ -19,3 +19,4 @@ print("Estudando:", estudando)
 # - Pode conter letras, numeros e underscores
 # - Nao pode conter espacos
 # - Nao pode ser uma palavra reservada do Python (como print, if, else, etc)
+

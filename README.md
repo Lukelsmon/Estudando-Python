@@ -52,6 +52,8 @@
 
 <br>
 
+<div>
+
 1. Abra seu terminal no VS Code
 2. > E digite "python"
 <br>
@@ -66,4 +68,8 @@
     <p>Para sair deste modo, digite:</p>
     
     > exit()
+</div>
+
+<img align="right" src="https://i.pinimg.com/736x/a7/d8/e9/a7d8e9c444e7769ff99ce75e43e487c4.jpg" width="150px">
+
 </div>
